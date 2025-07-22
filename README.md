@@ -1,4 +1,5 @@
 # 💼 Employee Salary Classification Web App
+![Alt Text](interface.png)
 
 This project is a Machine Learning-based web application developed using Streamlit. It predicts whether an employee earns more than or less than $50K per year based on multiple input attributes such as age, education, workclass, marital status, occupation, and more. Designed with simplicity and usability in mind, the app provides an interactive interface for users to input data and receive instant prediction
 
